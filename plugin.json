@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "denote.sync",
+  "name": "Whole-app sync",
+  "version": "0.1.0",
+  "description": "End-to-end encrypted sync of every vault, preference, revision, and plugin data through storage you control.",
+  "publisher": { "name": "Denote", "url": "https://github.com/denote-io" },
+  "license": "MIT",
+  "repository": "https://github.com/denote-io/denote-sync",
+  "icon": "icon.svg",
+  "category": "productivity",
+  "compatibility": { "apiVersion": 1, "minimumDenoteVersion": "1.1.0", "maximumDenoteVersion": "2.0.0" },
+  "permissions": [{ "capability": "sync" }],
+  "entrypoint": "dist/index.js",
+  "documentation": "guide.md"
+}
