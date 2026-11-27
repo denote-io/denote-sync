@@ -28,7 +28,7 @@
     "dev": "denote-plugin dev"
   },
   "dependencies": {
-    "@denote/plugin-sdk": "github:denote-io/denote-plugin-sdk#564645ef77c2844962af5025732c630dfff6a40d"
+    "@denote/plugin-sdk": "github:denote-io/denote-plugin-sdk#v0.2.0"
   },
   "devDependencies": {
     "@types/node": "^26.6.6",
