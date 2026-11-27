@@ -12,9 +12,9 @@ documented in Denote's `docs/sync.md`; the plugin only registers the isolated
 
 ## Status
 
-`compatibility.minimumDenoteVersion` is `1.1.0`, the first planned release with
-host sync support. Until that Denote release is published the plugin is
-incompatible with released builds and must not be released or adopted.
+Released as [v0.1.0](https://github.com/denote-io/denote-sync/releases/tag/v0.1.0)
+and offered by Denote 1.1.1 and later. It requires Denote 1.1.0, the first
+release with host sync support.
 
 ## Development
 
